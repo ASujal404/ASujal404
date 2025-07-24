@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Sujal Belkhode,<br>a Computer Engineering student at YCCE. <br>I'm passionate about Full Stack Web Development, <br>and I enjoy building practical tech solutions that make an impact. 
+# 💫 Hi, I'm Sujal Belkhode 
+A Computer Engineering student at YCCE. <br>I'm passionate about Full Stack Web Development, <br>and I enjoy building practical tech solutions that make an impact. 
 
 
 ## 🌐 Socials:
