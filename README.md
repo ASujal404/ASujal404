@@ -1,4 +1,6 @@
-# 💫 Hi, I'm Sujal Belkhode 
+<img width="1128" height="191" alt="Linkdin background banner" src="https://github.com/user-attachments/assets/144b3a1c-2b21-4ffd-85d5-758104b26128" />
+
+# 💫 About Me  
 A Computer Engineering student at YCCE. <br>I'm passionate about Full Stack Web Development, <br>and I enjoy building practical tech solutions that make an impact. 
 
 
